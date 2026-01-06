@@ -1,0 +1,12 @@
+gradio==3.41.1
+python-dotenv==1.0.1
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-google-genai==2.0.7
+google-generativeai==0.8.3
+chromadb==0.5.3
+PyPDF2==3.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+gTTS==2.5.1
+PyMuPDF
